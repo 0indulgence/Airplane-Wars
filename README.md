@@ -1,9 +1,12 @@
 # Airplane-Wars
 Airplane Wars game based on PyGame library
 
+<blockquote>
 Rules:
-    press SPACE to shoot
-    press C to change shooting type
-    press P to play
-    press ESC to pause
-    press Q to quit
+    
+    press SPACE to shoot<br>
+    press C to change shooting type<br>
+    press P to play<br>
+    press ESC to pause<br>
+    press Q to quit<br>
+<blockquote>
